@@ -15,7 +15,7 @@ This project is licensed under [MIT](https://opensource.org/licenses/MIT) licens
 
 Give a ⭐️ if this project helped you!
 
-### :essential module
+### essential module
 
 Copy the “annoying” directory to your Django project or put it in your PYTHONPATH.
 
