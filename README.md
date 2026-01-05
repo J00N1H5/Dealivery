@@ -163,17 +163,6 @@ Dealivery-master/
 - **디버그 모드**: 개발 시 True
 - **허용 호스트**: 개발 시 모든 호스트 허용
 
-## 🤝 기여하기
-
-프로젝트에 기여하고 싶으시다면 언제든 Pull Request를 생성해 주세요!
-
-### 기여 방법
-1. 저장소를 포크합니다
-2. 새로운 브랜치를 생성합니다 (`git checkout -b feature/AmazingFeature`)
-3. 변경사항을 커밋합니다 (`git commit -m 'Add some AmazingFeature'`)
-4. 브랜치에 푸시합니다 (`git push origin feature/AmazingFeature`)
-5. Pull Request를 생성합니다
-
 ## 📝 라이선스
 
 이 프로젝트는 [MIT](https://opensource.org/licenses/MIT) 라이선스 하에 배포됩니다.
